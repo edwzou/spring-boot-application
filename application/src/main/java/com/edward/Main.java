@@ -30,7 +30,7 @@ public class Main {
             );
 
             List<Customer> customers = List.of(Edward, Bea);
-            customerRepository.saveAll(customers);
+            //customerRepository.saveAll(customers);
         };
     }
 }
